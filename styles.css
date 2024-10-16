@@ -9,8 +9,8 @@ header {
     border-bottom: solid 4px rgb(200, 50, 255);
     padding: 20px;
     font-size: 32px;
+    text-align: center;
     color: white;
-    justify-content: center;
 }
 
 .chamada {
