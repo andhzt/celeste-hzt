@@ -2,10 +2,11 @@ body {
     color: white;
     background: rgb(175, 0, 255);
     margin: 0px;
-    font-family: "Renogare"
+    font-family: "Renogare";
+    margin-bottom: 100px;
 }
 
-header {
+body header {
     border-bottom: solid 4px rgb(200, 50, 255);
     padding: 20px;
     font-size: 32px;
