@@ -38,17 +38,17 @@ p {
     display: flex;
     overflow-x: auto;
     gap: 10px;
-    padding-bottom: 100px;
+    padding-bottom: 10px;
     justify-content: center;
 }
 
 .categoria {
     padding-left: 20px;
     padding-right: 20px;
-    margin: 0px;
 }
 
 .categoria h2 {
+    border-top: solid 4px rgb(200, 50, 255);
     color: white;
     text-align: center;
 }
