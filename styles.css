@@ -59,4 +59,9 @@ p {
 .categoria-videos img:hover {
     opacity: 1;  
     border: 4px solid white;
+    height: 250px;
 } 
+
+.madeline {
+    height: 100px;
+}
