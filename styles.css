@@ -10,6 +10,7 @@ header {
     padding: 20px;
     font-size: 32px;
     color: white;
+    text-align: center;
 }
 
 .chamada {
@@ -44,6 +45,7 @@ p {
 
 .categoria h2 {
     color: white;
+    text-align: center;
 }
 
 .categoria-videos img {
