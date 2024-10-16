@@ -47,7 +47,7 @@ p {
 
 .categoria h2 {
     color: white;
-    justify-content: center;
+    text-align: center;
 }
 
 .categoria-videos img {
