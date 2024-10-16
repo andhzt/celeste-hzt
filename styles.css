@@ -19,6 +19,7 @@ body header {
 	padding: 80px;
 	display: flex;
 	justify-content: center;
+    border-bottom: solid 4px rgb(200, 50, 255);
 }
 
 .chamada-texto {
@@ -44,8 +45,7 @@ p {
 .categoria {
     padding-left: 20px;
     padding-right: 20px;
-    padding-bottom: 100px;
-    border-top: solid 4px rgb(200, 50, 255);
+    margin: 0px;
 }
 
 .categoria h2 {
