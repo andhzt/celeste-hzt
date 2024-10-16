@@ -1,5 +1,4 @@
 body {
-    color: white;
     background: rgb(175, 0, 255);
     margin: 0px;
     font-family: "Renogare"
@@ -10,6 +9,10 @@ header {
     padding: 20px;
     font-size: 32px;
     color: rgb(200, 50, 255);
+}
+
+.titulo {
+    color: white;
 }
 
 section {
@@ -31,10 +34,6 @@ p {
     font-size: 20px;
 }
 
-img {
-    height: 200px;
-}
-
 .categoria-videos {
     display: flex;
     overflow-x: auto;
@@ -48,4 +47,9 @@ img {
 
 .categoria-videos img {
     opacity: 0.5;
+    height: 200px;
 }
+.categoria-videos img:hover {
+    opacity: 1;  
+    border: 1px solid white;
+} 
