@@ -6,11 +6,11 @@ body {
 }
 
 header {
-    border-bottom: solid 2px rgb(200, 50, 255);
+    border-bottom: solid 4px rgb(200, 50, 255);
     padding: 20px;
     font-size: 32px;
     color: white;
-    text-align: center;
+    justify-content: center;
 }
 
 .chamada {
@@ -36,6 +36,7 @@ p {
     display: flex;
     overflow-x: auto;
     gap: 10px;
+    border-bottom: solid 4px rgb(200, 50, 255);
 }
 
 .categoria {
@@ -46,7 +47,7 @@ p {
 
 .categoria h2 {
     color: white;
-    text-align: center;
+    justify-content: center;
 }
 
 .categoria-videos img {
