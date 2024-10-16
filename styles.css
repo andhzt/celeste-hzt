@@ -37,7 +37,9 @@ p {
     display: flex;
     overflow-x: auto;
     gap: 10px;
-    border-bottom: solid 4px rgb(200, 50, 255);
+    padding-bottom: 100px;
+    border-top: solid 4px rgb(200, 50, 255);
+    justify-content: center;
 }
 
 .categoria {
