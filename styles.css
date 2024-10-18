@@ -6,6 +6,15 @@ body {
     margin-bottom: 100px;
 }
 
+body img {
+    display: flex;
+    overflow-x: auto;
+    gap: 50px;
+    padding-bottom: 10px;
+    justify-content: center;
+    overflow-y: auto;
+}
+
 body header {
     border-bottom: solid 4px rgb(200, 50, 255);
     padding: 20px;
