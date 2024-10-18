@@ -6,7 +6,7 @@ body {
     margin-bottom: 100px;
 }
 
-body img {
+.titulo {
     display: flex;
     overflow-x: auto;
     gap: 50px;
@@ -15,7 +15,7 @@ body img {
     overflow-y: auto;
 }
 
-body header {
+.titulo header {
     border-bottom: solid 4px rgb(200, 50, 255);
     padding: 20px;
     font-size: 32px;
