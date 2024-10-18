@@ -17,7 +17,7 @@ body {
 }
 
 .titulo img {
-    height: 30px;
+    size: auto;
 }
 
 .titulo header {
