@@ -7,16 +7,20 @@ body {
 }
 
 .titulo {
+    border-bottom: solid 4px rgb(200, 50, 255);
     display: flex;
     overflow-x: auto;
-    gap: 50px;
+    gap: 20px;
     padding-bottom: 10px;
     justify-content: center;
     overflow-y: auto;
 }
 
+.titulo img {
+    height: 30px;
+}
+
 .titulo header {
-    border-bottom: solid 4px rgb(200, 50, 255);
     padding: 20px;
     font-size: 32px;
     text-align: center;
