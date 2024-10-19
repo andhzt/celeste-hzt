@@ -10,14 +10,12 @@ body {
     border-bottom: solid 4px rgb(200, 50, 255);
     display: flex;
     overflow-x: auto;
-    gap: 20px;
-    padding-bottom: 10px;
     justify-content: center;
-    overflow-y: auto;
 }
 
 .titulo img {
-    height: 30px;
+    height: 50px;
+    align-self: center;
 }
 
 .titulo header {
